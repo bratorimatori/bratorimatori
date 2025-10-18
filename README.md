@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bojan Tomic, a software engineer from Serbia
-- 🌱 I’m currently working primarily with Node.js, Angular, and Nes,t but I have a wide interest in everything and anything related to engineering
+- 🌱 I’m currently working primarily with Node.js, Angular, and Nest, but I have a broad interest in everything and anything related to engineering
 - 📫 You can reach me here or at my [LinkedIn profile](https://www.linkedin.com/in/bojan-tomic-b24944103/)
 
 <!---
